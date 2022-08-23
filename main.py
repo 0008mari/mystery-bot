@@ -27,10 +27,9 @@ def main():
     # raw 가공
     books = []
     for book in raw['item']:
-        tmp = str(book).replace("\'", "\"").replace("False", '"False"').replace("True", '"True"')
-        # with open("C:/Users/00_ma/mystery-bot/result.txt", 'w') as f:
-        #     f.write(tmp)
-        books.append(json.loads(tmp))
+        print(book)
+        tmp = json.dumps(book)
+        books.append(book)
     
     #### 여기서부터 db 연결 코드
     engine = create_engine('sqlite:///books.db', echo=True)
