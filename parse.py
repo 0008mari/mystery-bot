@@ -5,7 +5,7 @@
 def parse(book):
     
     # 140자로 줄이기
-    # 근데 링크가 23자로 축소됨? 그냥 안줄이고 가보자고 ㅋㅋ 
+    # 트위터 spec 상 링크가 23자로 줄여지기 때문에 일단은 초과하지 않는다고 판단함
     
     result = book["title"] + "\n" + book["author"] + "\n" + book["publisher"] + "\n" + book["pubDate"] + "\n" + book["link"]
     print("파싱결과 @@@@ \n" + result + "\n@@@@결과끝")
