@@ -4,7 +4,7 @@
 
 알라딘 [추리/미스터리 소설] 카테고리에 새로 등록되는 소설을 트윗으로 업로드하는 봇입니다.
 
-[](https://velog.io/@0008mari/%EC%9E%90%EB%8F%99%ED%8A%B8%EC%9C%97-%EB%B4%87-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+![](https://user-images.githubusercontent.com/63359327/190893556-dc01c0c6-abe9-48e6-b304-9615aa32472f.png)
 
 [바로가기](https://twitter.com/mysterynovelbot)
 
