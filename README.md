@@ -27,7 +27,7 @@
 
 * GCP Compute Engine
   
-  * e2-micro, devian-11
+  * e2-micro, devian 5.10
     
 
 ## 더 자세한 정보가 궁금하다면!
